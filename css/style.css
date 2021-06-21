@@ -1,0 +1,49 @@
+.negrita{
+    font-style: italic;
+    font-weight: bold;
+}
+h1{
+    color: #005677;
+    background-color: #C4C4C4;
+    ;
+
+}
+header{
+    text-align: center;
+}
+.perfil{
+ background-image: image();
+}
+.perfil{
+    width: 100px;
+    height: auto;
+    margin: auto;
+   border-radius: 0px;
+}
+.footer{
+    background-color: #005677;
+    align-content: center;
+}
+body{
+    align-content: center;
+}
+footer{
+    
+        background-color: #C4C4C4;
+        align-content: center;
+    
+}
+.bodyMas{
+    background-color: aqua;
+}
+.imgMas{
+    width: auto;
+    height: 500px;
+    margin: auto;
+   border-radius: 0px;
+
+}
+headerMas{
+    background-color: azure;
+    
+}
